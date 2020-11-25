@@ -10,7 +10,7 @@
 
         // Group: Public Variables
 
-        public override int Width => GuiHelper­.WindowWidth;
+        public override int Width => GuiHelper.WindowWidth;
         public override int Height => GuiHelper.WindowHeight;
     }
 }
